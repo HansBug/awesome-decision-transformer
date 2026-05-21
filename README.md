@@ -184,42 +184,42 @@ format:
 
 ### ICML 2026
 
-- [Decision Transformers As Zero-Shot Learners via Text-Behavior Alignment](https://openreview.net/forum?id=jqLPUccarO)
+- [Decision Transformers As Zero-Shot Learners via Text-Behavior Alignment](https://icml.cc/virtual/2026/poster/62096)
   - Xin Zhang, Jonathan Martinez, Yanhua Li, Yingxue Zhang
   - Key: Decision Transformer, offline meta-RL, text conditioning, zero-shot
   - ExpEnv: MetaWorld, MuJoCo
 
-- [Unsupervised Partner Design Enables Robust Ad-hoc Teamwork](https://openreview.net/forum?id=0xtMUL0eiF)
+- [Unsupervised Partner Design Enables Robust Ad-hoc Teamwork](https://arxiv.org/pdf/2508.06336v1)
   - Constantin Ruhdorfer, Matteo Bortoletto, Victor Oei, Anna Penzkofer, Andreas Bulling
   - Key: Ad-hoc teamwork, In-context coordination, Multi-agent RL
   - ExpEnv: LBF, Overcooked, OvercookedAI
 
-- [Behavior-Invariant Task Representation Learning with Transformer-based World Models for Offline Meta-Reinforcement Learning](https://openreview.net/forum?id=n4SsjVKXWQ)
+- [Behavior-Invariant Task Representation Learning with Transformer-based World Models for Offline Meta-Reinforcement Learning](https://icml.cc/virtual/2026/poster/61775)
   - Fuyuan Qian, Menglong Zhang, Song Wang, Quanying Liu
   - Key: Transformer World Model, Behavior-Invariant, Offline Meta-RL, Task Representation
   - ExpEnv: offline meta-RL benchmarks
 
-- [Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork](https://openreview.net/forum?id=EbkumuY3eW)
+- [Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork](https://icml.cc/virtual/2026/poster/65339)
   - Yuheng Jing, Kai Li, Jiajun Zhang, Zeyao Ma, Jiaxi Yang, Lei Zhang, Zhe Wu, Jinmin He, Junliang Xing, Jian Cheng
   - Key: In-Context RL, Ad-Hoc Teamwork, Benchmark, Multi-Agent
   - ExpEnv: Overcooked-V2
 
-- [Improving Zero-Shot Offline RL via Behavioral Task Sampling](https://openreview.net/forum?id=VqXCLPKdrp)
+- [Improving Zero-Shot Offline RL via Behavioral Task Sampling](https://arxiv.org/pdf/2604.25496v1)
   - Nazim Bendib, Nicolas Perrin-Gilbert, Olivier Sigaud
   - Key: Zero-Shot Offline RL, Behavioral Task Sampling, Meta-RL
   - ExpEnv: offline meta-RL benchmarks
 
-- [QHyer: Q-conditioned Hybrid Attention-Mamba Transformer for Offline Goal-Conditioned RL](https://openreview.net/forum?id=MGrOId7zTe)
+- [QHyer: Q-conditioned Hybrid Attention-Mamba Transformer for Offline Goal-Conditioned RL](https://arxiv.org/pdf/2605.01862v2)
   - Xing Lei, Jincheng Wang, Xuetao Zhang, Donglin Wang
   - Key: Decision Transformer, Q-Conditioned, Mamba, Offline Goal-Conditioned RL
   - ExpEnv: offline goal-conditioned RL benchmarks
 
-- [Return-to-Go Is More Than a Number: Q-Guided Alignment for Return-Conditioned Supervised Learning](https://openreview.net/forum?id=jSOVSYO6YX)
+- [Return-to-Go Is More Than a Number: Q-Guided Alignment for Return-Conditioned Supervised Learning](https://icml.cc/virtual/2026/poster/62141)
   - Yuxiao Yang, Weitong Zhang
   - Key: Return-to-Go, Decision Transformer, Q-Guided Alignment, Offline RL
   - ExpEnv: D4RL
 
-- [Robust In-Context Reinforcement Learning Under Reward Poisoning Attacks](https://openreview.net/forum?id=s8AbIVtmUg)
+- [Robust In-Context Reinforcement Learning Under Reward Poisoning Attacks](https://icml.cc/virtual/2026/poster/61251)
   - Paulius Sasnauskas, Yiğit Yalın, Goran Radanovic
   - Key: In-Context RL, Robustness, Reward Poisoning, Transformer
   - ExpEnv: in-context RL benchmarks
