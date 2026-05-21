@@ -189,7 +189,7 @@ format:
   - Key: Decision Transformer, offline meta-RL, text conditioning, zero-shot
   - ExpEnv: MetaWorld, MuJoCo
 
-- [Unsupervised Partner Design Enables Robust Ad-hoc Teamwork](https://arxiv.org/pdf/2508.06336v1)
+- [Unsupervised Partner Design Enables Robust Ad-hoc Teamwork](https://arxiv.org/abs/2508.06336)
   - Constantin Ruhdorfer, Matteo Bortoletto, Victor Oei, Anna Penzkofer, Andreas Bulling
   - Key: Ad-hoc teamwork, In-context coordination, Multi-agent RL
   - ExpEnv: LBF, Overcooked, OvercookedAI
@@ -204,12 +204,12 @@ format:
   - Key: In-Context RL, Ad-Hoc Teamwork, Benchmark, Multi-Agent
   - ExpEnv: Overcooked-V2
 
-- [Improving Zero-Shot Offline RL via Behavioral Task Sampling](https://arxiv.org/pdf/2604.25496v1)
+- [Improving Zero-Shot Offline RL via Behavioral Task Sampling](https://arxiv.org/abs/2604.25496)
   - Nazim Bendib, Nicolas Perrin-Gilbert, Olivier Sigaud
   - Key: Zero-Shot Offline RL, Behavioral Task Sampling, Meta-RL
   - ExpEnv: offline meta-RL benchmarks
 
-- [QHyer: Q-conditioned Hybrid Attention-Mamba Transformer for Offline Goal-Conditioned RL](https://arxiv.org/pdf/2605.01862v2)
+- [QHyer: Q-conditioned Hybrid Attention-Mamba Transformer for Offline Goal-Conditioned RL](https://arxiv.org/abs/2605.01862)
   - Xing Lei, Jincheng Wang, Xuetao Zhang, Donglin Wang
   - Key: Decision Transformer, Q-Conditioned, Mamba, Offline Goal-Conditioned RL
   - ExpEnv: offline goal-conditioned RL benchmarks
